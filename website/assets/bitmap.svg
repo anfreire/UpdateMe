@@ -1,0 +1,37 @@
+<svg width="210mm" height="297mm" viewBox="0 0 210 297" version="1.1" id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+   <defs id="defs1" />
+   <g id="layer1">
+      <g id="g6">
+         <rect style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.277285;stroke-opacity:1;paint-order:markers fill stroke" id="rect1" width="199.72272" height="119.72272" x="0.1386425" y="40.138641" rx="2" ry="2" />
+         <rect style="font-variation-settings:'wght' 700;fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.252803;stroke-opacity:1;paint-order:markers fill stroke" id="rect1-7" width="189.74719" height="104.7472" x="5.1264014" y="50.1264" rx="1.9001063" ry="1.74983" />
+      </g>
+      <g id="g5">
+         <circle style="font-variation-settings:'wght' 700;fill:#0fff00;fill-opacity:1;stroke:#000000;stroke-width:0.259122;stroke-opacity:1;paint-order:markers fill stroke" id="path1-3-2" cx="16.548" cy="44.297001" r="2.3704391" />
+         <circle style="font-variation-settings:'wght' 700;fill:#ffde00;fill-opacity:1;stroke:#000000;stroke-width:0.259122;stroke-opacity:1;paint-order:markers fill stroke" id="path1-3" cx="10.548" cy="44.297001" r="2.3704391" />
+      </g>
+      <circle style="font-variation-settings:'wght' 700;fill:#ff0000;fill-opacity:1;stroke:#000000;stroke-width:0.259122;stroke-opacity:1;paint-order:markers fill stroke" id="path1" cx="4.5477195" cy="44.296799" r="2.3704391" />
+      <g id="g4">
+         <rect style="font-variation-settings:'wght' 700;fill:#ff0100;fill-opacity:1;stroke:#ffffff;stroke-width:0.180547;stroke-opacity:1;paint-order:markers fill stroke" id="rect2" width="43.622082" height="20.351679" x="25.935869" y="61.319241" rx="5" ry="5" />
+         <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0;paint-order:markers fill stroke" x="28.46904" y="78.428513" id="text2">
+            <tspan id="tspan2" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0" x="28.46904" y="78.428513">ADS</tspan>
+         </text>
+      </g>
+      <g id="g3">
+         <rect style="font-variation-settings:'wght' 700;fill:#ff0100;fill-opacity:1;stroke:#ffffff;stroke-width:0.180547;stroke-opacity:1;paint-order:markers fill stroke" id="rect2-2" width="43.622082" height="20.351679" x="67.029854" y="84.756935" rx="5" ry="5" />
+         <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0;paint-order:markers fill stroke" x="69.563019" y="101.86646" id="text2-9">
+            <tspan id="tspan2-3" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0" x="69.563019" y="101.86646">ADS</tspan>
+         </text>
+      </g>
+      <g id="g2">
+         <rect style="font-variation-settings:'wght' 700;fill:#ff0100;fill-opacity:1;stroke:#ffffff;stroke-width:0.180547;stroke-opacity:1;paint-order:markers fill stroke" id="rect2-2-7" width="43.622082" height="20.351679" x="14.642261" y="121.534" rx="5" ry="5" />
+         <text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.7556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, @wght=700';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0;paint-order:markers fill stroke" x="17.175446" y="138.64339" id="text2-9-8">
+            <tspan id="tspan2-3-4" style="fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:0.264583;stroke-opacity:0" x="17.175446" y="138.64339">ADS</tspan>
+         </text>
+      </g>
+      <path style="font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#00f9ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" d="M 218.77571,91.082205 88.468302,96.313134" id="laserMiddle" />
+      <path style="font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#00f9ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" d="M 218.69357,91.117556 34.240697,133.36737" id="laserDown" />
+      <path style="font-variation-settings:'wght' 700;fill:#ffffff;fill-opacity:1;stroke:#00f9ff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1;paint-order:markers fill stroke" d="M 218.60416,90.379342 45.960638,71.353153" id="laserUp" />
+   </g>
+</svg>

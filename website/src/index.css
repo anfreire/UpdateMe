@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.smart-x-padding {
+  @apply px-6 sm:px-8 md:px-16 lg:px-32 xl:px-64 2xl:px-96;
+}
+
+.smart-y-padding {
+  @apply py-6 sm:py-8 md:py-10 lg:py-12 xl:py-14 2xl:py-16;
+}
+
+.hide-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  &::-webkit-scrollbar {
+    display: none;
+  }
+}

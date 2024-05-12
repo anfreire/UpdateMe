@@ -1,0 +1,86 @@
+{
+    "HDO": {
+        "title": "HDO Box",
+        "packageName": "com.hdobox",
+        "url": "https://hdo.app",
+        "version": "2.0.19",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/hdo_hdo.apk"
+    },
+    "YOUTUBE_MICROG": {
+        "title": "MicroG",
+        "packageName": "com.mgoogle.android.gms",
+        "url": "https://github.com/ReVanced/GmsCore",
+        "version": "0.3.1.4.240913",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/microg_teamvanced.apk"
+    },
+    "YOUTUBE_YOUTUBE": {
+        "title": "YouTube",
+        "packageName": "app.revanced.android.youtube",
+        "url": "https://github.com/j-hc/revanced-magisk-module",
+        "version": "19.11.43",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced.apk"
+    },
+    "YOUTUBE_MUSIC": {
+        "title": "YouTube Music",
+        "packageName": "app.revanced.android.apps.youtube.music",
+        "url": "https://github.com/j-hc/revanced-magisk-module",
+        "version": "6.48.52",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk"
+    },
+    "SPOTIFY": {
+        "title": "Spotify",
+        "packageName": "com.spotify.music",
+        "url": "https://spotigeek.com/",
+        "version": "8.10.9.722",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_spotify_geek.apk"
+    },
+    "INSTAGRAM": {
+        "title": "Instagram",
+        "packageName": "com.aeroinsta.android",
+        "url": "https://aeroinsta.com/",
+        "version": "316.0.0.38.109",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/instagram_aeroinsta.apk"
+    },
+    "WHATSAPP": {
+        "title": "WhatsApp",
+        "packageName": "com.aero",
+        "url": "https://fmmods.com/fouad-whatsapp/",
+        "version": "2.24.2.76",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/whatsapp_fmwhatsapp.apk"
+    },
+    "CAPCUT": {
+        "title": "CapCut",
+        "packageName": "com.lemon.lvoverseas",
+        "url": "https://modyolo.com/capcut-video-editor.html",
+        "version": "11.8.0",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_modyolo.apk"
+    },
+    "PHOTO_EDITOR_PRO": {
+        "title": "Photo Editor Pro",
+        "packageName": "photo.editor.photoeditor.photoeditorpro",
+        "url": "https://modyolo.com/polish-photo-editor-pro.html",
+        "version": "1.53.166",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photo_editor_pro_modyolo.apk"
+    },
+    "PHOTOSHOP_EXPRESS": {
+        "title": "Photoshop Express",
+        "packageName": "com.adobe.psmobile",
+        "url": "https://modyolo.com/photoshop-express-photo-editor.html",
+        "version": "13.5.407",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_modyolo.apk"
+    },
+    "INSHOT": {
+        "title": "InShot",
+        "packageName": "com.camerasideas.instashot",
+        "url": "https://modyolo.com/inshot.html",
+        "version": "2.032.1445",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_modyolo.apk"
+    },
+    "TWITTER": {
+        "title": "Twitter",
+        "packageName": "com.twitter.aeromod",
+        "url": "https://aerowitter.com/",
+        "version": "9.95.0-release.0",
+        "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/twitter_aerowitter.apk"
+    }
+}
