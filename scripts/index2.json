@@ -374,10 +374,10 @@
                 "packageName": "com.lemon.lvoverseas",
                 "source": "https://liteapks.com/capcut-video-editor.html",
                 "version": "11.9.0",
-                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v11.9.0%20(Pro).apk",
+                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v11.90%20b11900500%20(Pro).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "443f401d2bd82f5f4f10e9236e89a096c0d78de056650e354bad68cccca4f05e"
+                "sha256": "bd915925972f6104d9d84f3343328aa8b8dfafc459cb0f5b5837293182834224"
             },
             "APKDONE": {
                 "packageName": "com.lemon.lvoverseas",
@@ -662,7 +662,7 @@
                 "packageName": "com.williamgjeruldsen.partypalandroid",
                 "source": "https://5wip-file.ru/download/file/239695.php",
                 "version": "3.2.1",
-                "link": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/partypal_5mod.apk",
+                "link": "?",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/partypal_5mod.apk",
                 "safe": true,
                 "sha256": "650665dddac47f1baf6a34ff95e15879b5fb37e939e6d350cbaf11a0bd7380cc"
