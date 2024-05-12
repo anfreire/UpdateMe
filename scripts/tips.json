@@ -1,3 +1,6 @@
 {
-	"Check VirusTotal Analysis": "https://github.com/anfreire/updateMe/raw/gh-pages/scripts/video/check_virus_total_analysis.mp4"
+  "Check VirusTotal Analysis": {
+    "description": "Consult the analysis of a apk file in VirusTotal",
+    "url": "https://github.com/anfreire/updateMe/raw/gh-pages/scripts/video/check_virus_total_analysis.mp4"
+  }
 }

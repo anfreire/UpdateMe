@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "download": "https://anfreire.github.io/updateMe/updateMe.apk",
+  "download": "https://github.com/anfreire/updateMe/raw/gh-pages/updateMe.apk",
   "releaseNotes": [
     {
       "title": "Revamped User Interface",
