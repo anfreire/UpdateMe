@@ -414,7 +414,7 @@
                 "version": "2.041.1451",
                 "link": "https://file.apkdone.download/s/x5wdAxYmnKxGEBC/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_apkdone.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "1bd0988c685724d05a2148c1534d4e91090baaac44d1019d26b16fe5d573eb80"
             },
             "MODYOLO": {
