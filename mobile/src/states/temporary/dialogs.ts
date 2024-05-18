@@ -5,7 +5,6 @@ const DIALOGS = [
   'colorSchemePicker',
   'share',
   'homeLayoutPicker',
-  'welcome',
   'newVersion',
 ] as const;
 

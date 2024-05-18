@@ -27,9 +27,17 @@ export interface AppScreenChildProps {
 
 export default function AppScreen({navigation, route}: any) {
   const theme = useTheme();
-  const {index} = useIndex();
-  const {versions, updates, refresh: refreshVersions} = useVersions();
-  const {currApp, setCurrApp, refresh: refreshCurrApp} = useCurrApp();
+  const index = useIndex(state => state.index);
+  const {versions, updates, refreshVersions} = useVersions(state => ({
+    versions: state.versions,
+    updates: state.updates,
+    refreshVersions: state.refresh,
+  }));
+  const {currApp, setCurrApp, refreshCurrApp} = useCurrApp(state => ({
+    currApp: state.currApp,
+    setCurrApp: state.setCurrApp,
+    refreshCurrApp: state.refresh,
+  }));
 
   const refresh = () => refreshVersions().then(() => refreshCurrApp());
 

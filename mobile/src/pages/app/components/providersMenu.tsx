@@ -1,5 +1,5 @@
 import {useState} from 'react';
-import {IconButton, Menu, Text, TextInput} from 'react-native-paper';
+import {Menu, TextInput} from 'react-native-paper';
 import {Linking} from 'react-native';
 import {AppScreenChildProps} from '..';
 import {useDefaultProviders} from '@/states/persistent/defaultProviders';

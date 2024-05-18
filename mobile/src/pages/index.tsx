@@ -15,7 +15,8 @@ import React from 'react';
 import TipScreen from './tips/tip';
 import {useTheme} from '@/theme';
 import {useDrawer} from '@/states/temporary/drawer';
-import { useCurrApp } from '@/states/computed/currApp';
+import {useCurrApp} from '@/states/computed/currApp';
+import {useTips} from '@/states/temporary/tips';
 
 const Stack = createStackNavigator();
 
@@ -25,6 +26,10 @@ function buildDrawerButton(openDrawer: () => void) {
 
 function TipsStack({navigation}: {navigation: any}) {
   const theme = useTheme();
+  const {currTip, setCurrTip} = useTips(state => ({
+    currTip: state.currTip,
+    setCurrTip: state.setCurrTip,
+  }));
   return (
     <Stack.Navigator initialRouteName="Tips" id="tips-tab-navigator">
       <Stack.Screen
@@ -46,6 +51,7 @@ function TipsStack({navigation}: {navigation: any}) {
       <Stack.Screen
         name="Tips-Tip"
         options={{
+          headerTitle: currTip ?? '',
           headerStyle: {
             backgroundColor: theme.schemedTheme.surfaceContainer,
           },
@@ -53,7 +59,13 @@ function TipsStack({navigation}: {navigation: any}) {
             color: theme.schemedTheme.onSurface,
           },
           headerLeft: _ => (
-            <IconButton icon="arrow-left" onPress={() => navigation.goBack()} />
+            <IconButton
+              icon="arrow-left"
+              onPress={() => {
+                navigation.navigate('Tips-Tips');
+                setCurrTip(null);
+              }}
+            />
           ),
         }}
         component={TipScreen}
@@ -65,7 +77,10 @@ function TipsStack({navigation}: {navigation: any}) {
 function HomeStack({navigation}: {navigation: any}) {
   const theme = useTheme();
   const openDrawer = useDrawer().openDrawer;
-  const {currApp, setCurrApp} = useCurrApp(state => ({currApp: state.currApp, setCurrApp: state.setCurrApp}));
+  const {currApp, setCurrApp} = useCurrApp(state => ({
+    currApp: state.currApp,
+    setCurrApp: state.setCurrApp,
+  }));
   return (
     <Stack.Navigator initialRouteName="Home" id="home-tab-navigator">
       <Stack.Screen

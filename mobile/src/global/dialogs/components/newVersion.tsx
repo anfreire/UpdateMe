@@ -2,7 +2,7 @@ import {Linking, ScrollView, View} from 'react-native';
 import {Button, Dialog, Portal, ProgressBar, Text} from 'react-native-paper';
 import {useDialogsProps} from '@/states/temporary/dialogs';
 import React from 'react';
-import {useApp} from '@/states/persistent/updateme';
+import {useApp} from '@/states/temporary/updateme';
 import FilesModule from '@/lib/files';
 import ReactNativeBlobUtil from 'react-native-blob-util';
 import Carousel from 'react-native-reanimated-carousel';

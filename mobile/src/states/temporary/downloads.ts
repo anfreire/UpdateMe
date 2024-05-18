@@ -16,13 +16,23 @@ export type DownloadsState = Record<
 
 export interface useDownloadsProps {
   downloads: DownloadsState;
-  addDownload: (fileName: string, url: string) => Promise<void>;
+  addDownload: (
+    fileName: string,
+    url: string,
+    onProgress?: (progress: number) => void,
+    onFinished?: (path: string) => void,
+  ) => Promise<void>;
   cancelDownload: (fileName: string) => void;
 }
 
 export const useDownloads = create<useDownloadsProps>((set, get) => ({
   downloads: {},
-  addDownload: async (fileName: string, url: string) => {
+  addDownload: async (
+    fileName: string,
+    url: string,
+    onProgress = (progress: number) => {},
+    onFinished = (path: string) => {},
+  ) => {
     const path = FilesModule.correctPath(fileName);
     try {
       if (await ReactNativeBlobUtil.fs.exists(path))
@@ -41,6 +51,7 @@ export const useDownloads = create<useDownloadsProps>((set, get) => ({
             [fileName]: {task, progress},
           },
         }));
+        onProgress(progress);
       });
     task.then(path => {
       const installAfter =
@@ -55,6 +66,7 @@ export const useDownloads = create<useDownloadsProps>((set, get) => ({
         const {[fileName]: _, ...rest} = prev.downloads;
         return {downloads: rest};
       });
+      onFinished(path);
     });
     set(prev => ({
       downloads: {

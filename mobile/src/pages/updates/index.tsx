@@ -21,17 +21,30 @@ export default function UpdatesScreen({navigation}: {navigation: any}) {
     isLoaded: state.isLoaded,
   }));
   const defaultProviders = useDefaultProviders(state => state.defaultProviders);
-  const {updates, refresh} = useVersions();
+  const {updates, refresh} = useVersions(state => ({
+    updates: state.updates,
+    refresh: state.refresh,
+  }));
   const openToast = useToast().openToast;
   const addDownload = useDownloads().addDownload;
   const setCurrApp = useCurrApp().setCurrApp;
 
   const updateApp = (appName: string) => {
     setUpdating(prev => ({...prev, [appName]: 0}));
-    const provider = defaultProviders[appName];
+    const provider = defaultProviders[appName] ?? Object.keys(index[appName].providers)[0];
     addDownload(
       appName + ' ' + index[appName].providers[provider].version + '.apk',
       index[appName].providers[provider].download,
+      (progress: number) => {
+        setUpdating(prev => ({...prev, [appName]: progress}));
+      },
+      () => {
+        setUpdating(prev => {
+          const newUpdating = {...prev};
+          delete newUpdating[appName];
+          return newUpdating;
+        });
+      },
     );
   };
 
@@ -61,6 +74,7 @@ export default function UpdatesScreen({navigation}: {navigation: any}) {
         ),
       });
     } else {
+      setUpdating({});
       navigation.setOptions({
         headerRight: () => <></>,
       });
@@ -69,14 +83,10 @@ export default function UpdatesScreen({navigation}: {navigation: any}) {
 
   useScreenCallback({
     repeat: {
-      callback: refresh,
+      callback: () => refresh().then(() => updateVersions()),
       interval: 1000,
     },
   });
-
-  useEffect(() => {
-    updateVersions();
-  }, [updates]);
 
   return (
     <>

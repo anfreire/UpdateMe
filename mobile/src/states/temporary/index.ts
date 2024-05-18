@@ -1,4 +1,5 @@
 import {create} from 'zustand';
+import { useVersions } from '../computed/versions';
 
 const INDEX_URL = 'https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/index2.json';
 const CATEGORIES_URL =
@@ -84,6 +85,7 @@ export const useIndex = create<useIndexProps>((set, get) => ({
     const categories = await getCategories();
     if (!index || !categories) return false;
     set({isLoaded: true, index, categories});
+    await useVersions.getState().refresh();
     return true;
   },
 }));

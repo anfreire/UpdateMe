@@ -4,7 +4,6 @@ import SourceColorPickerDialog from './components/appearance';
 import ColorSchemePickerDialog from './components/scheme';
 import HomeLayoutPickerDialog from './components/layout';
 import ShareDialog from './components/share';
-import WelcomeDialog from './components/welcome';
 import NewVersionDialog from './components/newVersion';
 
 export function DialogsWrapper({children}: {children: React.ReactNode}) {
@@ -49,12 +48,7 @@ export function DialogsWrapper({children}: {children: React.ReactNode}) {
         openDialog={openDialog}
         closeDialog={closeDialog}
       />
-      <WelcomeDialog
-        activeDialog={activeDialog}
-        defaultDialogProps={defaultDialogProps}
-        openDialog={openDialog}
-        closeDialog={closeDialog}
-      />
+
       <NewVersionDialog
         activeDialog={activeDialog}
         defaultDialogProps={defaultDialogProps}

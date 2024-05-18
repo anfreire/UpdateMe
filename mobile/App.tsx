@@ -13,7 +13,8 @@ import {useTheme} from '@/theme';
 import DrawerWrapper from '@/global/drawer';
 import {useSettings} from '@/states/persistent/settings';
 import {useDialogs} from '@/states/temporary/dialogs';
-import {useApp} from '@/states/persistent/updateme';
+import {useApp} from '@/states/temporary/updateme';
+import {useTips} from '@/states/temporary/tips';
 
 function App(): React.JSX.Element {
   const theme = useTheme();
@@ -22,16 +23,16 @@ function App(): React.JSX.Element {
   );
   const app = useApp();
   const openDialog = useDialogs().openDialog;
+  const fetchTips = useTips().fetchTips;
 
   useEffect(() => {
     if (app.info.version > app.localVersion) openDialog('newVersion');
-    else if (!app.flags.welcome) openDialog('welcome');
   }, [app.info]);
 
   useEffect(() => {
     const fun = () => deleteOnLeave && FilesModule.deleteAllFiles();
     fun();
-
+    fetchTips();
     return () => {
       fun();
     };

@@ -1,7 +1,7 @@
 import {View} from 'react-native';
 import {ScrollView} from 'react-native-gesture-handler';
 import {Icon as RNIcon, Text} from 'react-native-paper';
-import {useEffect, useState} from 'react';
+import {useState} from 'react';
 import {ReactNativeBlobUtilStat} from 'react-native-blob-util';
 import {useDownloads, useDownloadsProps} from '@/states/temporary/downloads';
 import FilesModule from '@/lib/files';
