@@ -191,19 +191,6 @@ def microg(index: Index):
 #####################################################################################
 # SPOTIFY
 def spotify(index: Index):
-	# Spotify Geek
-	def spotify_geek():
-		driver = Selenium()
-		driver.openLink("https://spotifygeek.tricksnation.com/link/download/1/")
-		elements = driver.getElements(By.XPATH, "//a[@href]")
-		link = None
-		for element in elements:
-			if element.get_attribute("href") and element.get_attribute("href").endswith(
-				".apk"
-			):
-				link = element.get_attribute("href")
-				break
-		return link
 
 	# MODYOLO
 	def modyolo():
@@ -228,7 +215,6 @@ def spotify(index: Index):
 	app = AppBase(
 		"Spotify",
 		{
-			"Spotify Geek": spotify_geek,
 			"MODYOLO": modyolo,
 			"LITEAPKS": liteapks,
 			"APKDONE": apkdone,
@@ -392,6 +378,21 @@ def instagram(index: Index):
 				link = element.get_attribute("href")
 				break
 		return link
+	
+	# HONINSTA
+	def honinsta():
+		driver = Selenium()
+		driver.openLink("https://honista.com/en/download.html")
+		elements = driver.getElements(By.XPATH, "//a[@href]")
+		link = None
+		for element in elements:
+			if (
+				element.get_attribute("href")
+				and element.get_attribute("href").endswith(".apk")
+			):
+				link = element.get_attribute("href")
+				break
+		return link
 
 	# AeroInsta
 	def aeroinsta():
@@ -409,6 +410,7 @@ def instagram(index: Index):
 		"Instagram",
 		{
 			"Instander": instander,
+			"Honinsta": honinsta,
 			"AeroInsta": aeroinsta,
 		},
 	)
