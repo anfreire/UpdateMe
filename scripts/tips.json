@@ -24,7 +24,7 @@
       }
     ]
   },
-  "Disable automatic ads skip on YouTube Revanced": {
+  "Disable ads auto-skip on YouTube Revanced": {
     "description": "Show skip button when ads are playing on YouTube Revanced",
     "content": [
       {
@@ -41,7 +41,7 @@
       }
     ]
   },
-  "Integrate media downloader on YouTube Revanced": {
+  "Download media on Youtube Revanced": {
     "description": "Make the YouTube Revanced app download through your preferred media downloader",
     "content": [
       {
