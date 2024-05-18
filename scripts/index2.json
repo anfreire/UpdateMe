@@ -238,23 +238,14 @@
             "No more ads"
         ],
         "providers": {
-            "Spotify Geek": {
-                "packageName": "com.spotify.music",
-                "source": "https://spotigeek.com/",
-                "version": "8.9.38.494",
-                "link": "https://spotigeek.com/wp-content/uploads/APK/Spotify-v8.9.38.494(Spotigeek.com).apk",
-                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_spotify_geek.apk",
-                "safe": true,
-                "sha256": "70150c4cd66711e33329e629f37900de797a40079fae08517e1ff4c399970ae1"
-            },
             "MODYOLO": {
                 "packageName": "com.spotify.music",
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.36.616",
-                "link": "https://files.modyolo.com/Spotify/v8.9.36.616/Spotify-v8.9.36.616(Premium).apk",
+                "version": "8.9.40.509",
+                "link": "https://files.modyolo.com/Spotify/v8.9.40.509/Spotify-v8.9.40.509-Premium.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "b7990cf4591ddcd44e25427110ab43c364417086522cf79e86b199b4d205156f"
+                "sha256": "2d8d0f2c74ffd6e3a4d1ee2a1fdbbef10f44b2f8aad9bcfd265cae0f6492cd2f"
             },
             "LITEAPKS": {
                 "packageName": "com.spotify.music",
@@ -457,6 +448,15 @@
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/instagram_aeroinsta.apk",
                 "safe": true,
                 "sha256": "e41f910ccd4c197cbbdce349525ff2fa834e3ddaaa11bb7ebf2aa5c21a097726"
+            },
+            "Honinsta": {
+                "packageName": "cc.honista.app",
+                "source": "https://honista.com/en/",
+                "version": "303.0.0.40.111",
+                "link": "https://app.honista.com/Honista_v8.2.apk",
+                "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/instagram_honinsta.apk",
+                "sha256": "17e4c09f62f251cbc5b1dd703c95fb9ddf0d051a9e2a7d351167f3a55adf6b0c",
+                "safe": true
             }
         }
     },
