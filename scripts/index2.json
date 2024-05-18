@@ -250,11 +250,11 @@
             "LITEAPKS": {
                 "packageName": "com.spotify.music",
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.38.494",
-                "link": "https://cloud.liteapks.com/download/Spotify/v8.9.38.494/Spotify%20v8.9.38.494%20(Premium).apk",
+                "version": "8.9.40.509",
+                "link": "https://cloud.liteapks.com/download/Spotify/v8.9.40.509/Spotify%20v8.9.40.509%20(Premium).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "70150c4cd66711e33329e629f37900de797a40079fae08517e1ff4c399970ae1"
+                "sha256": "2d8d0f2c74ffd6e3a4d1ee2a1fdbbef10f44b2f8aad9bcfd265cae0f6492cd2f"
             },
             "APKDONE": {
                 "packageName": "com.spotify.music",
@@ -288,11 +288,11 @@
             "LITEAPKS": {
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
                 "source": "https://liteapks.com/polish-photo-editor-pro.html",
-                "version": "1.542.169",
-                "link": "https://cloud.liteapks.com/download/Polish%20Photo%20Editor%20Pro/Photo%20Editor%20Pro%20-%20Polish%20v1.542.169%20(Pro).apk",
+                "version": "1.543.170",
+                "link": "https://cloud.liteapks.com/download/Polish%20Photo%20Editor%20Pro/Photo%20Editor%20Pro%20-%20Polish%20v1.543.170%20(Pro).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photo_editor_pro_liteapks.apk",
                 "safe": true,
-                "sha256": "670e472dd1a26aeed12df26d3b67df0c4d8aa7a99807eded638d5b23268410cf"
+                "sha256": "5fa44c95ae585ec334be25728c7c86585cd12b6de82d8b5feed7f44230073755"
             },
             "APKDONE": {
                 "packageName": "photo.editor.photoeditor.photoeditorpro",
@@ -326,11 +326,11 @@
             "LITEAPKS": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "13.8.13",
-                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v13.8.13%20(PREMIUM).apk",
+                "version": "13.8.57",
+                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v13.8.57%20(PREMIUM).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "a0573bf40cc1d7d37725b165fb7ced64b65829fa282f721e13890983f5de81a0"
+                "sha256": "26753976e6ed935bcbbd0ed16e336e0d685d206999fa91fdfe46cd2e6ae529b1"
             },
             "APKDONE": {
                 "packageName": "com.adobe.psmobile",
@@ -365,10 +365,10 @@
                 "packageName": "com.lemon.lvoverseas",
                 "source": "https://liteapks.com/capcut-video-editor.html",
                 "version": "11.9.0",
-                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v11.90%20b11900500%20(Pro).apk",
+                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v11.9.0%20b11900700%20(Pro).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "bd915925972f6104d9d84f3343328aa8b8dfafc459cb0f5b5837293182834224"
+                "sha256": "5c690f0318d4515f6721bfdc3d3d23bfa843e8fcac59a5382140a68d08208ca6"
             },
             "APKDONE": {
                 "packageName": "com.lemon.lvoverseas",
@@ -393,29 +393,29 @@
             "LITEAPKS": {
                 "packageName": "com.camerasideas.instashot",
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.040.1450",
-                "link": "https://cloud.liteapks.com/download/InShot/InShot%20v2.040.1450%20(Pro).apk",
+                "version": "2.041.1451",
+                "link": "https://cloud.liteapks.com/download/InShot/InShot%20v2.041.1451%20(Pro).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "68e930d7e171fb0e1d5bc464bf2fe12d2c3571db01590b1e1a803c8e343d2a72"
+                "sha256": "acdec6e75c239643c8ef0e1277a67821e8dd4ab3c7d632d17f962a48107edf93"
             },
             "APKDONE": {
                 "packageName": "com.camerasideas.instashot",
                 "source": "https://apkdone.com/inshot",
                 "version": "2.041.1451",
-                "link": "https://file.apkdone.download/s/x5wdAxYmnKxGEBC/download",
+                "link": "https://hole.apkdone.download/s/bN3iAFm2iaJY4M3/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_apkdone.apk",
                 "safe": false,
-                "sha256": "1bd0988c685724d05a2148c1534d4e91090baaac44d1019d26b16fe5d573eb80"
+                "sha256": "7f1dfa942b96060bb5cea86c76c074b6d456776e4ecb570a9487d0e94f5a36bc"
             },
             "MODYOLO": {
                 "packageName": "com.camerasideas.instashot",
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.035.1449",
-                "link": "https://files.modyolo.com/InShot/InShot-v2.035.1449-(Pro).apk",
+                "version": "2.041.1451",
+                "link": "https://files.modyolo.com/InShot/InShot-v2.041.1451-Pro.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_modyolo.apk",
                 "safe": true,
-                "sha256": "ede3707e7da0012315cdd6fae827ce62d68a2131b86af8680bf48623da50b22e"
+                "sha256": "acdec6e75c239643c8ef0e1277a67821e8dd4ab3c7d632d17f962a48107edf93"
             }
         }
     },
@@ -455,8 +455,8 @@
                 "version": "303.0.0.40.111",
                 "link": "https://app.honista.com/Honista_v8.2.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/instagram_honinsta.apk",
-                "sha256": "17e4c09f62f251cbc5b1dd703c95fb9ddf0d051a9e2a7d351167f3a55adf6b0c",
-                "safe": true
+                "safe": true,
+                "sha256": "17e4c09f62f251cbc5b1dd703c95fb9ddf0d051a9e2a7d351167f3a55adf6b0c"
             }
         }
     },
@@ -701,11 +701,11 @@
             "LiteApks": {
                 "packageName": "com.nixgames.neverdid",
                 "source": "https://liteapks.com/download/never-have-i-ever-194362",
-                "version": "7.1.6",
-                "link": "https://cloud.liteapks.com/download/Never%20Have%20Ever/Never%20have%20I%20ever%20v7.1.6%20(PREMIUM).apk",
+                "version": "7.1.7",
+                "link": "https://cloud.liteapks.com/download/Never%20Have%20Ever/Never%20have%20I%20ever%20v7.1.7%20pp6.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/never_have_i_ever_liteapks.apk",
                 "safe": true,
-                "sha256": "01a7054edfe5db85e308ec4b96cd5c6fcc06ac93b0817acfd53f4bedd8e4a667"
+                "sha256": "f94b5f4cafb955ef446475b4e4076b4b7fa4ba235873bc64038a5886020917a1"
             }
         }
     }
