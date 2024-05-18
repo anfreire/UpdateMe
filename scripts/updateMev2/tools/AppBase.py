@@ -71,9 +71,9 @@ class AppBase:
     def process(self, provider_title: str, link: str, path: str, index: Index) -> bool:
         apk = Apk(path)
         old_provider = index.get_provider(self.app_title, provider_title)
+        vt.add(self.app_title, provider_title, path, apk.sha256)
+        download = Github.push_release(path)
         if old_provider["sha256"] != apk.sha256:
-            vt.add(self.app_title, provider_title, path, apk.sha256)
-            download = Github.push_release(path)
             index.update_provider(
                 self.app_title, provider_title, apk.version, link, download, apk.sha256
             )

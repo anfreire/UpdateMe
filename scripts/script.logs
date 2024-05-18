@@ -1,0 +1,120 @@
+2024-05-18 15:02:24,373 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:02:24,373 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:03:51,784 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:03:51,784 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:05:43,058 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:05:43,058 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:09:10,827 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:09:10,827 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:11:59,903 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:11:59,903 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:14:08,506 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:14:08,506 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:15:00,545 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:15:00,545 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:17:03,596 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:17:03,596 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:18:10,699 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:18:10,699 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:21:08,655 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero
+2024-05-18 15:21:08,655 - updateMe - ERROR - division by zero
+Traceback (most recent call last):
+  File "/home/anfreire/Documents/Projects/updateMe/scripts/updateMev2/tools/Downloader.py", line 31, in download_requests
+    done = int(50 * dl / total_size)
+               ~~~~~~~~^~~~~~~~~~~~
+ZeroDivisionError: division by zero

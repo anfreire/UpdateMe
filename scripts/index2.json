@@ -1,6 +1,6 @@
 {
     "HDO": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/hdo.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/hdo.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -23,7 +23,7 @@
         }
     },
     "YouTube": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/youtube.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/youtube.png",
         "depends": [
             "MicroG"
         ],
@@ -76,7 +76,7 @@
         }
     },
     "YouTube Music": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/youtube_music.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/youtube_music.png",
         "depends": [
             "MicroG"
         ],
@@ -127,7 +127,7 @@
         }
     },
     "Reddit": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/reddit.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/reddit.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -154,7 +154,7 @@
         }
     },
     "Twitch": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/twitch.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/twitch.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -179,7 +179,7 @@
         }
     },
     "TikTok": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/tiktok.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/tiktok.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -203,7 +203,7 @@
         }
     },
     "MicroG": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/microg.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/microg.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -225,7 +225,7 @@
         }
     },
     "Spotify": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/spotify.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/spotify.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -268,7 +268,7 @@
         }
     },
     "Photo Editor Pro": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/photo_editor_pro.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/photo_editor_pro.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -306,7 +306,7 @@
         }
     },
     "Photoshop Express": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/photoshop_express.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/photoshop_express.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -344,7 +344,7 @@
         }
     },
     "CapCut": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/capcut.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/capcut.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -382,7 +382,7 @@
         }
     },
     "InShot": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/inshot.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/inshot.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -420,7 +420,7 @@
         }
     },
     "Instagram": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/instagram.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/instagram.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -461,7 +461,7 @@
         }
     },
     "Twitter": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/twitter.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/twitter.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -483,7 +483,7 @@
         }
     },
     "NewPipe": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/newpipe.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/newpipe.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -506,7 +506,7 @@
         }
     },
     "Seal": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/seal.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/seal.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -529,7 +529,7 @@
         }
     },
     "Niagara Launcher": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/niagara.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/niagara.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -567,7 +567,7 @@
         }
     },
     "Smart Launcher 6": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/smart6.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/smart6.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -605,7 +605,7 @@
         }
     },
     "ReVanced Manager": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/revancedmanager.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/revancedmanager.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -627,7 +627,7 @@
         }
     },
     "YTDLnis": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/ytdlnis.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/ytdlnis.png",
         "depends": [],
         "complements": [
             "YouTube",
@@ -650,7 +650,7 @@
         }
     },
     "PartyPal": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/partypal.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/partypal.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -670,7 +670,7 @@
         }
     },
     "Picolo": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/picolo.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/picolo.png",
         "depends": [],
         "complements": [],
         "features": [
@@ -690,7 +690,7 @@
         }
     },
     "Never Have I Ever": {
-        "icon": "https://anfreire.github.io/updateMe/scripts/icons/neverhaveiever.png",
+        "icon": "https://raw.githubusercontent.com/anfreire/updateMe/gh-pages/scripts/icons/neverhaveiever.png",
         "depends": [],
         "complements": [],
         "features": [
