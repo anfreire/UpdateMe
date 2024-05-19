@@ -335,11 +335,11 @@
             "APKDONE": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "13.8.49",
-                "link": "https://file.apkdone.download/s/6wZ6n3XNyAAXf8W/download",
+                "version": "13.8.57",
+                "link": "https://file.apkdone.download/s/qmoCM5xLYRSKqpr/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "7f1a4779e6d842857648b4327820fa6e98bace3b659ef2192c95ff7b69e95697"
+                "sha256": "bf5776ce47902ff87887256be5d8e7b1840711284c4dbff40da534cff6186cbf"
             }
         }
     },
@@ -587,11 +587,11 @@
             "LITEAPKS": {
                 "packageName": "ginlemon.flowerfree",
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 025",
-                "link": "https://cloud.liteapks.com/download/Smart%20Launcher/Smart%20Launcher%20v6.4%20build%20025%20(PREMIUM).apk",
+                "version": "6.4 build 027",
+                "link": "https://cloud.liteapks.com/download/Smart%20Launcher/Smart%20Launcher%20v6.4%20build%20027%20(PREMIUM).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/smart_launcher_6_liteapks.apk",
                 "safe": true,
-                "sha256": "8240b477028727bee3328f383878902419cf9ad4a2fd005708fafcb385e413e7"
+                "sha256": "1aa9ca30f8d595011498ed2215b348fac4f7f57f02e47b9065736bb68f1eb16d"
             },
             "APKDONE": {
                 "packageName": "ginlemon.flowerfree",
