@@ -91,11 +91,11 @@
             "ReVanced": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.01.52",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.01.52_cli4.6.0_p4.8.1.apk",
+                "version": "7.02.51",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.1.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "77787b9e4b4acb66d267ff49fa998c71368b288ce31cc9b6f76b712e7f4ea4cc"
+                "sha256": "5ef4e2a0bffa9dc4b50cfdd431b7c311fd2fe26da0262426e8ff89550726cb4a"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.apps.youtube.music",
@@ -195,10 +195,10 @@
                 "packageName": "com.ss.android.ugc.trill",
                 "source": "https://revanced.net/revanced-tiktok",
                 "version": "32.5.3",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-16/revanced.net_revanced_tiktok_v32.5.3_cli4.6.0_p4.7.0.10.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_tiktok_v32.5.3_cli4.6.0_p4.8.1.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/tiktok_revanced.apk",
                 "safe": true,
-                "sha256": "aaa97b0e18d8f60067d424509505694cde5b7dd9e2f6b6629b41fd19135cbf51"
+                "sha256": "63e1557ee9e9965d1d960ccffd2cb65473de5fb4f41f68e8768db14db1f351eb"
             }
         }
     },
@@ -326,20 +326,20 @@
             "LITEAPKS": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.0.63",
-                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v14.0.63%20(PREMIUM).apk",
+                "version": "14.0.66",
+                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v14.0.66%20(PREMIUM)%20arm7.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "053c4460c4c828a4f25ee8359c3767c6fc35f57a51f52e83a33c1be2259af30c"
+                "sha256": "2e1551631526078b1d4e83bc1625cd3f5a30a04464ab5f5cfdc74434b81a7094"
             },
             "APKDONE": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "13.8.57",
-                "link": "https://file.apkdone.download/s/qmoCM5xLYRSKqpr/download",
+                "version": "14.0.66",
+                "link": "https://file.apkdone.download/s/yEpL4p3niwjk8qD/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "bf5776ce47902ff87887256be5d8e7b1840711284c4dbff40da534cff6186cbf"
+                "sha256": "0da0685c9a4e0ffb9f26dde5bcdb896b788103cc354066f54d0777a5ca68af67"
             }
         }
     },
