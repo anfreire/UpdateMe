@@ -41,10 +41,10 @@
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/revancedapps/revanced.net",
                 "version": "19.11.43",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.1.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.2.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "584eea3e1eb0f79a23a01b6fcc3f0214ee81208a41d88068115f8135f1ce89e9"
+                "sha256": "7b0a86c2ce501b96d103c8383ac74958bd104f602f54e7cd99d44f863df05de6"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.youtube",
@@ -92,10 +92,10 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.02.51",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.1.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.2.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "5ef4e2a0bffa9dc4b50cfdd431b7c311fd2fe26da0262426e8ff89550726cb4a"
+                "sha256": "a4dc330946c3a5007966bb51b18082c5e258df1ee0f1d77010531ec93d13f7ae"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.apps.youtube.music",
@@ -250,11 +250,11 @@
             "LITEAPKS": {
                 "packageName": "com.spotify.music",
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.40.509",
-                "link": "https://cloud.liteapks.com/download/Spotify/v8.9.40.509/Spotify%20v8.9.40.509%20(Premium).apk",
+                "version": "8.9.42.575",
+                "link": "https://cloud.liteapks.com/download/Spotify/v8.9.42.575/Spotify%20v8.9.42.575%20(Premium).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "2d8d0f2c74ffd6e3a4d1ee2a1fdbbef10f44b2f8aad9bcfd265cae0f6492cd2f"
+                "sha256": "d8269653396fbf792553b02e38a05a356c69d57b8a0e09f927192d7a7b5ffc82"
             },
             "APKDONE": {
                 "packageName": "com.spotify.music",
@@ -364,20 +364,20 @@
             "LITEAPKS": {
                 "packageName": "com.lemon.lvoverseas",
                 "source": "https://liteapks.com/capcut-video-editor.html",
-                "version": "11.9.0",
-                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v11.9.0%20b11900700%20(Pro).apk",
+                "version": "12.0.0",
+                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v12.0.0%20(Pro).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "5c690f0318d4515f6721bfdc3d3d23bfa843e8fcac59a5382140a68d08208ca6"
+                "sha256": "803e595c8669884b56d2666c5c13e74598a440c1ec4eabb427f27065b0e109d6"
             },
             "APKDONE": {
                 "packageName": "com.lemon.lvoverseas",
                 "source": "https://apkdone.com/capcut-mod-apk/",
-                "version": "11.9.0",
-                "link": "https://file.apkdone.download/s/gCNwG2NSA4wAFGa/download",
+                "version": "12.0.0",
+                "link": "https://file.apkdone.download/s/pSBzkjxLDXKqNRo/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_apkdone.apk",
                 "safe": true,
-                "sha256": "443f401d2bd82f5f4f10e9236e89a096c0d78de056650e354bad68cccca4f05e"
+                "sha256": "803e595c8669884b56d2666c5c13e74598a440c1ec4eabb427f27065b0e109d6"
             }
         }
     },
@@ -558,11 +558,11 @@
             "APKDONE": {
                 "packageName": "bitpit.launcher",
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.11.8",
-                "link": "https://file.apkdone.download/s/fTL2yNPgbJfqgZJ/download",
+                "version": "1.11.9",
+                "link": "https://file.apkdone.download/s/gfisSdCwjXFFbqk/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/niagara_launcher_apkdone.apk",
                 "safe": true,
-                "sha256": "011892d4d825ccb3bd5651ecfcce597556ffcc6cbd1e1c586020496b0e24bee6"
+                "sha256": "1c0315c6cc70c1d083320750fede9c4d8887f6db82a629415a24420712378edc"
             }
         }
     },
