@@ -41,37 +41,37 @@
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/revancedapps/revanced.net",
                 "version": "19.11.43",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.2.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.3.1.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "7b0a86c2ce501b96d103c8383ac74958bd104f602f54e7cd99d44f863df05de6"
+                "sha256": "ca5613cc7e29b13d547a8ae6e6dbffcd66472045d96e8f6c8854cfba51383be8"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.youtube",
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.16.39",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-20/revanced.net_revanced_youtube_ext_v19.16.39_cli4.6.1_p4.8.0.6.apk",
+                "version": "19.20.34",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-22/revanced.net_revanced_youtube_ext_v19.20.34_cli4.6.1_p4.8.5.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_extended.apk",
                 "safe": true,
-                "sha256": "184dc9e356db548107fac4679a7b00858105b09674cebf11eeca5aa78e3dd29a"
+                "sha256": "497b5a3dd2069aa06a6f2b374282442a84e3f0c810f7c568e4dace5e3d1cd6af"
             },
             "ReVanced (2)": {
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "19.11.43",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/youtube-revanced-v19.11.43-all.apk",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220942/youtube-revanced-v19.11.43-all.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "ed8ae14545136f69e4117fc2d3e8486e5bad1ad622b5517cc50b53c0acbbd183"
+                "sha256": "53bfb5e7e334f4733e36027ee61526475a46d3b99398bb3e3af98175087e2d29"
             },
             "ReVanced Extended (2)": {
                 "packageName": "app.rvx.android.youtube",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.16.39",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/youtube-revanced-extended-v19.16.39-all.apk",
+                "version": "19.20.34",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220945/youtube-revanced-extended-v19.20.34-all.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "a1f286da6d898654b94f1f4a40bafe99aa683db50a5aa906fa79370119bb6d1a"
+                "sha256": "4bb04b1855c417d3af6ff4793b9153249a50dfe6931fa06e95d09e4c55c45bb6"
             }
         }
     },
@@ -92,37 +92,37 @@
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
                 "version": "7.02.51",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.2.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.3.1.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "a4dc330946c3a5007966bb51b18082c5e258df1ee0f1d77010531ec93d13f7ae"
+                "sha256": "f75fa65436e919f1d87671650e4085a89085cadf05923dac41c0a432c6873233"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "6.51.52",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-20/revanced.net_revanced_youtube_music_ext_v6.51.52_cli4.6.1_p4.8.0.6.apk",
+                "version": "7.02.51",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-22/revanced.net_revanced_youtube_music_ext_v7.02.51_cli4.6.1_p4.8.5.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_extended.apk",
                 "safe": true,
-                "sha256": "e4d3739d4dcc50f5501481fee14e8b7146d49832af84a85785585f64da313d48"
+                "sha256": "ccdea42eb9583c1d0a7290a87383d5dcb77c3a7ecfb97939c54dfacf781a9097"
             },
             "ReVanced (2)": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.01.52",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/music-revanced-v7.01.52-arm64-v8a.apk",
+                "version": "7.02.51",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220942/music-revanced-v7.02.51-arm64-v8a.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
-                "sha256": "94417eb5bbb405cde22836cfaea07342fbe1bdaf9d8aa0f5529f29b8ca28f6cc"
+                "sha256": "4a280c284d90d780b9be911acb51c81aa678270e548eda5adb27a65a12b5b3fd"
             },
             "ReVanced Extended (2)": {
                 "packageName": "app.rvx.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "6.50.51",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220941/music-revanced-extended-v6.50.51-arm64-v8a.apk",
+                "version": "7.02.51",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220945/music-revanced-extended-v7.02.51-arm64-v8a.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_extended_2.apk",
                 "safe": true,
-                "sha256": "4d5dd254f7a9c746c830df2e46610cef53c79d848aef1cdc35935e0d3a8c1d72"
+                "sha256": "586056373a8ace3457b085a73ca3e1a0b20dffcf0055611198e58c159bc825af"
             }
         }
     },
@@ -146,10 +146,10 @@
                 "packageName": "com.reddit.frontpage",
                 "source": "https://revanced.net/revanced-reddit-extended",
                 "version": "2024.17.0",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-20/revanced.net_revanced_reddit_ext_v2024.17.0_cli4.6.1_p4.8.0.6.apk",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-22/revanced.net_revanced_reddit_ext_v2024.17.0_cli4.6.1_p4.8.5.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/reddit_revanced.apk",
                 "safe": true,
-                "sha256": "9a7ce04b65250a5738bb86fdce0d93ab52bfdf086ea084919321368275f8f6a6"
+                "sha256": "48aceaa8caa5beb1dd8120f1257536673e1589f35fae834b3d14610501bacedc"
             }
         }
     },
@@ -241,11 +241,11 @@
             "MODYOLO": {
                 "packageName": "com.spotify.music",
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.40.509",
-                "link": "https://files.modyolo.com/Spotify/v8.9.40.509/Spotify-v8.9.40.509-Premium.apk",
+                "version": "8.9.42.575",
+                "link": "https://files.modyolo.com/Spotify/v8.9.42.575/Spotify-v8.9.42.575-Premium.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "2d8d0f2c74ffd6e3a4d1ee2a1fdbbef10f44b2f8aad9bcfd265cae0f6492cd2f"
+                "sha256": "d8269653396fbf792553b02e38a05a356c69d57b8a0e09f927192d7a7b5ffc82"
             },
             "LITEAPKS": {
                 "packageName": "com.spotify.music",
@@ -326,20 +326,20 @@
             "LITEAPKS": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.0.66",
-                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v14.0.66%20(PREMIUM)%20arm7.apk",
+                "version": "14.1.76",
+                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v14.1.76%20(PREMIUM)%20arm7.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "2e1551631526078b1d4e83bc1625cd3f5a30a04464ab5f5cfdc74434b81a7094"
+                "sha256": "a04eba58916777ae289653b9c6eb47d637043b1276ff6fa99826f474ebc02b00"
             },
             "APKDONE": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.0.66",
-                "link": "https://file.apkdone.download/s/yEpL4p3niwjk8qD/download",
+                "version": "14.1.71",
+                "link": "https://file.apkdone.download/s/zdx7KjSHNfAkZnC/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "0da0685c9a4e0ffb9f26dde5bcdb896b788103cc354066f54d0777a5ca68af67"
+                "sha256": "9d2539eced6995fc46b9c0b5834ca3ec020b1fe7825571fe8abc0bdbad8be783"
             }
         }
     },
@@ -355,20 +355,20 @@
             "MODYOLO": {
                 "packageName": "com.lemon.lvoverseas",
                 "source": "https://modyolo.com/capcut-video-editor.html",
-                "version": "11.9.0",
-                "link": "https://files.modyolo.com/CapCut/v11.9.0/CapCut-v11.9.0-(Pro).apk",
+                "version": "12.0.0",
+                "link": "https://files.modyolo.com/CapCut/v12.0.0/CapCut-v12.0.0-Pro.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_modyolo.apk",
                 "safe": true,
-                "sha256": "443f401d2bd82f5f4f10e9236e89a096c0d78de056650e354bad68cccca4f05e"
+                "sha256": "7bd7285677fcd1286c72137a57fdd6f634f8848ef44864abeb61af87f3ace50a"
             },
             "LITEAPKS": {
                 "packageName": "com.lemon.lvoverseas",
                 "source": "https://liteapks.com/capcut-video-editor.html",
                 "version": "12.0.0",
-                "link": "https://cloud.liteapks.com/download/CapCut/CapCut%20v12.0.0%20(Pro).apk",
+                "link": "https://statics.liteapks.com/CapCut/CapCut_v12.0.0%20b12000200%20%28Pro%29%20Clone.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/capcut_liteapks.apk",
                 "safe": true,
-                "sha256": "803e595c8669884b56d2666c5c13e74598a440c1ec4eabb427f27065b0e109d6"
+                "sha256": "7bd7285677fcd1286c72137a57fdd6f634f8848ef44864abeb61af87f3ace50a"
             },
             "APKDONE": {
                 "packageName": "com.lemon.lvoverseas",
@@ -641,11 +641,11 @@
             "deniscerr": {
                 "packageName": "com.deniscerri.ytdl",
                 "source": "https://github.com/deniscerri/ytdlnis",
-                "version": "1.7.6.0-beta",
-                "link": "https://github.com//deniscerri/ytdlnis/releases/download/v1.7.6.0-beta/YTDLnis-1.7.6.0-beta-universal-release.apk",
+                "version": "1.7.6.1-beta",
+                "link": "https://github.com//deniscerri/ytdlnis/releases/download/v1.7.6.1-beta/YTDLnis-1.7.6.1-beta-universal-release.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/ytdlnis_deniscerr.apk",
                 "safe": true,
-                "sha256": "9e092015a4f4066f74c512cfb8eea18c8479170c2c27718a348ca142e88457bb"
+                "sha256": "dbd0e261b3ec2511dc3a407ff0a95fef1f38cf2b7c406caead5aa47b2a3bb2c9"
             }
         }
     },
