@@ -91,11 +91,11 @@
             "ReVanced": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.02.51",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-21/revanced.net_revanced_youtube_music_v7.02.51_cli4.6.0_p4.8.3.1.apk",
+                "version": "7.02.52",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-22/revanced.net_revanced_youtube_music_v7.02.52_cli4.6.0_p4.8.3.1.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "f75fa65436e919f1d87671650e4085a89085cadf05923dac41c0a432c6873233"
+                "sha256": "0f09fd555af6853260642f0e28625f3fa95db9aeb388de6c832488847340a2b4"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.apps.youtube.music",
