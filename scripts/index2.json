@@ -338,7 +338,7 @@
                 "version": "14.1.87",
                 "link": "https://hole.apkdone.download/s/tKF9Rnmm5kGMdCk/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_apkdone.apk",
-                "safe": true,
+                "safe": false,
                 "sha256": "4b5c3059feec4b5f31301bb11f1d3c060e3c5376a5754fc51c1e1f8671d84f05"
             }
         }
@@ -405,7 +405,7 @@
                 "version": "2.050.1452",
                 "link": "https://hole.apkdone.download/s/kqQqfFCTk3g9PqE/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_apkdone.apk",
-                "safe": false,
+                "safe": true,
                 "sha256": "e056cd7bf7ff05996ed28e118e6da4eeb36c53629e42b822239ca4e6ba4be091"
             },
             "MODYOLO": {
