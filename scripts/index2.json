@@ -40,11 +40,11 @@
             "ReVanced": {
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/revancedapps/revanced.net",
-                "version": "19.11.43",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-22/revanced.net_revanced_youtube_v19.11.43_cli4.6.0_p4.8.3.4.apk",
+                "version": "19.16.39",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-23/revanced.net_revanced_youtube_v19.16.39_cli4.6.0_p4.9.0.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced.apk",
                 "safe": true,
-                "sha256": "6afccaa50cc262ce1650d8293c5d9246ec0781c42b6addc6c31e8b0bf370e057"
+                "sha256": "7c6b472e1721778bced2a0915c86bfd991d6d2bab17b642c935bdd226d3328f2"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.youtube",
@@ -58,11 +58,11 @@
             "ReVanced (2)": {
                 "packageName": "app.revanced.android.youtube",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "19.11.43",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220947/youtube-revanced-v19.11.43-all.apk",
+                "version": "19.16.39",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220949/youtube-revanced-v19.16.39-all.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_revanced_2.apk",
                 "safe": true,
-                "sha256": "6dc18e81fa204b30e3214a776c5f8395b7205fadd7167bf0a50d68ce00c5081b"
+                "sha256": "dd534ef69e186d26a9e26924d63ebc608d5e61ddca8b7f5a24381d18d6b60666"
             },
             "ReVanced Extended (2)": {
                 "packageName": "app.rvx.android.youtube",
@@ -91,11 +91,11 @@
             "ReVanced": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.03.51",
-                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-22/revanced.net_revanced_youtube_music_v7.03.51_cli4.6.0_p4.8.3.4.apk",
+                "version": "7.03.52",
+                "link": "https://github.com/revancedapps/revanced.net/releases/download/2024-23/revanced.net_revanced_youtube_music_v7.03.52_cli4.6.0_p4.9.0.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced.apk",
                 "safe": true,
-                "sha256": "0a86dd95fc5083a3639c8a7ab7a4fb2d4b4be1011624e8081d600be0cba718c4"
+                "sha256": "2913ec8985136c8ac942e929ceb5952ffcaca52d78b083669906edb46311c7b0"
             },
             "ReVanced Extended": {
                 "packageName": "app.rvx.android.apps.youtube.music",
@@ -109,11 +109,11 @@
             "ReVanced (2)": {
                 "packageName": "app.revanced.android.apps.youtube.music",
                 "source": "https://github.com/j-hc/revanced-magisk-module",
-                "version": "7.03.51",
-                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220947/music-revanced-v7.03.51-arm64-v8a.apk",
+                "version": "7.03.52",
+                "link": "https://github.com//j-hc/revanced-magisk-module/releases/download/20220949/music-revanced-v7.03.52-arm64-v8a.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/youtube_music_revanced_2.apk",
                 "safe": true,
-                "sha256": "7136f5399c16ba538ab673e6c16323669878e9c8c566d03df698b8ba8b84622c"
+                "sha256": "cab00fe367ee34b78c4e39f83f1e98b01cc46b5d9e8e823a46fcbfe82b0002a2"
             },
             "ReVanced Extended (2)": {
                 "packageName": "app.rvx.android.apps.youtube.music",
@@ -241,20 +241,20 @@
             "MODYOLO": {
                 "packageName": "com.spotify.music",
                 "source": "https://modyolo.com/spotify-music-2.html",
-                "version": "8.9.42.575",
-                "link": "https://files.modyolo.com/Spotify/v8.9.42.575/Spotify-v8.9.42.575-Premium.apk",
+                "version": "8.9.46.426",
+                "link": "https://files.modyolo.com/Spotify/v8.9.46.426/Spotify-v8.9.46.426-Premium.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_modyolo.apk",
                 "safe": true,
-                "sha256": "d8269653396fbf792553b02e38a05a356c69d57b8a0e09f927192d7a7b5ffc82"
+                "sha256": "4248a489d865c7de92d0adab011db4910f875cf9a517e3038bc5715421becfc4"
             },
             "LITEAPKS": {
                 "packageName": "com.spotify.music",
                 "source": "https://liteapks.com/spotify-2.html",
-                "version": "8.9.44.368",
-                "link": "https://cloud.liteapks.com/download/Spotify/v8.9.44.368/Spotify%20v8.9.44.368%20(Premium).apk",
+                "version": "8.9.46.426",
+                "link": "https://statics.liteapks.com/Spotify/v8.9.46.426/Spotify%20v8.9.46.426%20(Premium).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/spotify_liteapks.apk",
                 "safe": true,
-                "sha256": "337d13c257c1d43d836adf2cec04503a576b0309d7dffa52988dfff177f8dbc4"
+                "sha256": "4248a489d865c7de92d0adab011db4910f875cf9a517e3038bc5715421becfc4"
             },
             "APKDONE": {
                 "packageName": "com.spotify.music",
@@ -326,20 +326,20 @@
             "LITEAPKS": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://liteapks.com/photoshop-express-photo-editor.html",
-                "version": "14.1.76",
-                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v14.1.76%20(PREMIUM)%20arm7.apk",
+                "version": "14.3.97",
+                "link": "https://cloud.liteapks.com/download/Photoshop%20Express/Adobe%20Photoshop%20Express%20v14.3.97%20(PREMIUM)%20arm7.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_liteapks.apk",
                 "safe": true,
-                "sha256": "a04eba58916777ae289653b9c6eb47d637043b1276ff6fa99826f474ebc02b00"
+                "sha256": "094c4c8e1d1f4e832bb972b3f48c684a677681a58a216b00019e20824bf57654"
             },
             "APKDONE": {
                 "packageName": "com.adobe.psmobile",
                 "source": "https://apkdone.com/adobe-photoshop-express/",
-                "version": "14.1.71",
-                "link": "https://file.apkdone.download/s/zdx7KjSHNfAkZnC/download",
+                "version": "14.1.87",
+                "link": "https://hole.apkdone.download/s/tKF9Rnmm5kGMdCk/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/photoshop_express_apkdone.apk",
                 "safe": true,
-                "sha256": "9d2539eced6995fc46b9c0b5834ca3ec020b1fe7825571fe8abc0bdbad8be783"
+                "sha256": "4b5c3059feec4b5f31301bb11f1d3c060e3c5376a5754fc51c1e1f8671d84f05"
             }
         }
     },
@@ -393,29 +393,29 @@
             "LITEAPKS": {
                 "packageName": "com.camerasideas.instashot",
                 "source": "https://liteapks.com/inshot-pro-2.html",
-                "version": "2.041.1451",
-                "link": "https://cloud.liteapks.com/download/InShot/InShot%20v2.041.1451%20(Pro).apk",
+                "version": "2.050.1452",
+                "link": "https://cloud.liteapks.com/download/InShot/InShot%20v2.050.1452%20(Pro).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_liteapks.apk",
                 "safe": true,
-                "sha256": "acdec6e75c239643c8ef0e1277a67821e8dd4ab3c7d632d17f962a48107edf93"
+                "sha256": "1389e7c42315ddedf69cbf1d43337915892910b54ccc3089dfe0c6353b65bb03"
             },
             "APKDONE": {
                 "packageName": "com.camerasideas.instashot",
                 "source": "https://apkdone.com/inshot",
-                "version": "2.041.1451",
-                "link": "https://hole.apkdone.download/s/bN3iAFm2iaJY4M3/download",
+                "version": "2.050.1452",
+                "link": "https://hole.apkdone.download/s/kqQqfFCTk3g9PqE/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_apkdone.apk",
                 "safe": false,
-                "sha256": "7f1dfa942b96060bb5cea86c76c074b6d456776e4ecb570a9487d0e94f5a36bc"
+                "sha256": "e056cd7bf7ff05996ed28e118e6da4eeb36c53629e42b822239ca4e6ba4be091"
             },
             "MODYOLO": {
                 "packageName": "com.camerasideas.instashot",
                 "source": "https://modyolo.com/inshot.html",
-                "version": "2.041.1451",
-                "link": "https://files.modyolo.com/InShot/InShot-v2.041.1451-Pro.apk",
+                "version": "2.050.1452",
+                "link": "https://files.modyolo.com/InShot/InShot-v2.050.1452-Pro.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/inshot_modyolo.apk",
                 "safe": true,
-                "sha256": "acdec6e75c239643c8ef0e1277a67821e8dd4ab3c7d632d17f962a48107edf93"
+                "sha256": "1389e7c42315ddedf69cbf1d43337915892910b54ccc3089dfe0c6353b65bb03"
             }
         }
     },
@@ -558,11 +558,11 @@
             "APKDONE": {
                 "packageName": "bitpit.launcher",
                 "source": "https://apkdone.com/niagara-launcher/",
-                "version": "1.12.1",
-                "link": "https://hole.apkdone.download/s/MkbzdY35zzEZjcw/download",
+                "version": "1.12.2",
+                "link": "https://hole.apkdone.download/s/Hp2f5EK6bS4EGcx/download",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/niagara_launcher_apkdone.apk",
                 "safe": true,
-                "sha256": "33cafb666b8ee910083584a3a5b40bab57e5e8f94d3e6cfc5e47534084a5018e"
+                "sha256": "f6f02208735d326e8f1969a096b39312927bafd17d4a6ce5e0e84076b0f78193"
             }
         }
     },
@@ -578,20 +578,20 @@
             "MODYOLO": {
                 "packageName": "ginlemon.flowerfree",
                 "source": "https://modyolo.com/smart-launcher-6.html",
-                "version": "6.4 build 027",
-                "link": "https://files.modyolo.com/Smart%20Launcher/Smart_Launcher-Pro-v6.4_build_027_build_640270-Mod.apk",
+                "version": "6.4 build 028",
+                "link": "https://files.modyolo.com/Smart%20Launcher/Smart-Launcher-Pro-v6.4-build-028_build_640280-Mod.apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/smart_launcher_6_modyolo.apk",
                 "safe": true,
-                "sha256": "8c9b83cdc359c7027c5904e040af444e806c06d5c48e1c87e93ca1a246420f38"
+                "sha256": "967cde9698cb66d64d58d2bd9968c58ee954d5c97321f11f16ed4bdc9f0ac92f"
             },
             "LITEAPKS": {
                 "packageName": "ginlemon.flowerfree",
                 "source": "https://liteapks.com/smart-launcher-6.html",
-                "version": "6.4 build 027",
-                "link": "https://cloud.liteapks.com/download/Smart%20Launcher/Smart%20Launcher%20v6.4%20build%20027%20(PREMIUM).apk",
+                "version": "6.4 build 028",
+                "link": "https://cloud.liteapks.com/download/Smart%20Launcher/Smart%20Launcher%20v6.4%20build%20028%20(PREMIUM).apk",
                 "download": "https://github.com/anfreire/UpdateMeApps/releases/download/apps/smart_launcher_6_liteapks.apk",
                 "safe": true,
-                "sha256": "1aa9ca30f8d595011498ed2215b348fac4f7f57f02e47b9065736bb68f1eb16d"
+                "sha256": "0dca3ed462db197a04f9372612090e486d8340184a84943df206678b14bd0520"
             },
             "APKDONE": {
                 "packageName": "ginlemon.flowerfree",
